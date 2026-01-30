@@ -113,15 +113,6 @@ Each design module is provided as a **self-contained PDF report** and covers bot
 
 ---
 
-## Resume Mapping
-This project supports the following resume entry:
-
-> **CMOS Analog IC Design and Simulation**  
-> ◦ Designed CMOS analog blocks such as current mirrors, cascode amplifiers, CS/CD stages, and differential pairs  
-> ◦ Designed and compensated single and two-stage OTAs, analyzing poles/zeros, GBW, phase margin, and stability  
-> ◦ Performed device-level transistor sizing and bias optimization using square-law and gm/Id methodologies  
-
----
 
 ## Notes
 - All designs were simulated in **Cadence Virtuoso (Spectre)**
